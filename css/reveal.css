@@ -212,7 +212,11 @@ body {
 
 .reveal strong,
 .reveal b {
-	font-weight: bold;
+  font-weight: bold;
+}
+
+.reveal strong {
+  color: #FF6;
 }
 
 .reveal em,
@@ -253,7 +257,7 @@ body {
 }
 
 .reveal p {
-	margin-bottom: 10px;
+	margin-bottom: 20px;
 	line-height: 1.2em;
 }
 
